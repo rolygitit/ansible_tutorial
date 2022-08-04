@@ -6,3 +6,6 @@ srv2@192.168.1.42
 
 [file_servers]
 srv3@192.168.1.43
+
+[workstations]
+srv1@192.168.1.41

@@ -1,3 +1,8 @@
+[web_servers]
 srv1@192.168.1.41 apache_package=apache2 php_package=libapache2-mod-php
+
+[db_servers]
 srv2@192.168.1.42
+
+[file_servers]
 srv3@192.168.1.43
